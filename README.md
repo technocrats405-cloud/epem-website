@@ -109,6 +109,5 @@ EPEM leadership & congregation for inspiration 💒
 
 ✨ Made with love & faith by the EPEM Dev Team
 
----
 
-Would you like me to also create a **nice badge section** (like “Built with React | Tailwind | Shadc
+
